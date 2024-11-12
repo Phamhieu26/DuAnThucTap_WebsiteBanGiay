@@ -1,0 +1,355 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = View_-_Backup
+build_property.RootNamespace = View_-_Backup
+build_property.ProjectDir = E:\TTTN\ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master\View\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\TTTN\ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master\View
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Account/CreateCustomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDcmVhdGVDdXN0b21lci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Account/CreateEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDcmVhdGVFbXBsb3llZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Account/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Account/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Account/ListCustomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMaXN0Q3VzdG9tZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Account/ListEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMaXN0RW1wbG95ZWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Account/SignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxTaWduVXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Address/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRkcmVzc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Brands/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Brands/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Brands/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Brands/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Brands/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Categories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Categories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Categories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Categories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Categories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Colors/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sb3JzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Colors/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sb3JzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Colors/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sb3JzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Colors/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sb3JzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Colors/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sb3JzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Customer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Customer/ViewProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcVmlld1Byb2R1Y3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Materials/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYWxzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Materials/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYWxzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Materials/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYWxzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Materials/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYWxzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Orders/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Orders/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Orders/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Orders/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Orders/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/ProductDetails/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdERldGFpbHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/ProductDetails/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdERldGFpbHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/ProductDetails/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdERldGFpbHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/ProductDetails/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdERldGFpbHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/ProductDetails/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdERldGFpbHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Products/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Products/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Products/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Products/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Promotions/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvbW90aW9uc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Promotions/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvbW90aW9uc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Promotions/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvbW90aW9uc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Promotions/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvbW90aW9uc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Promotions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvbW90aW9uc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Promotions/ProductDetailsPromotion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvbW90aW9uc1xQcm9kdWN0RGV0YWlsc1Byb21vdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Sell/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsbFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Shared/_CustomerLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DdXN0b21lckxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Shared/_LayoutAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Shared/_LayoutCustomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRDdXN0b21lci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/ShippingUnits/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpcHBpbmdVbml0c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/ShippingUnits/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpcHBpbmdVbml0c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/ShippingUnits/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpcHBpbmdVbml0c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/ShippingUnits/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpcHBpbmdVbml0c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/ShippingUnits/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpcHBpbmdVbml0c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Sizes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2l6ZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Sizes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2l6ZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Sizes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2l6ZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Sizes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2l6ZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Sizes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2l6ZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Soles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29sZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Soles/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29sZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Soles/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29sZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Soles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29sZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Soles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29sZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Voucher/Applicable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm91Y2hlclxBcHBsaWNhYmxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Voucher/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm91Y2hlclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Voucher/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm91Y2hlclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Voucher/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm91Y2hlclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Voucher/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm91Y2hlclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Voucher/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm91Y2hlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TTTN/ThucTapXuong_WebsiteBanGiayTheThaoSneaker-master/View/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-v9cgm0b9gx
